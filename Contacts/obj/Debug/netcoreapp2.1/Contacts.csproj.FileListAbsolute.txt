@@ -1,0 +1,11 @@
+C:\dev\Contacts\Contacts\bin\Debug\netcoreapp2.1\Contacts.deps.json
+C:\dev\Contacts\Contacts\bin\Debug\netcoreapp2.1\Contacts.runtimeconfig.json
+C:\dev\Contacts\Contacts\bin\Debug\netcoreapp2.1\Contacts.runtimeconfig.dev.json
+C:\dev\Contacts\Contacts\bin\Debug\netcoreapp2.1\Contacts.dll
+C:\dev\Contacts\Contacts\bin\Debug\netcoreapp2.1\Contacts.pdb
+C:\dev\Contacts\Contacts\obj\Debug\netcoreapp2.1\Contacts.csprojAssemblyReference.cache
+C:\dev\Contacts\Contacts\obj\Debug\netcoreapp2.1\Contacts.csproj.CoreCompileInputs.cache
+C:\dev\Contacts\Contacts\obj\Debug\netcoreapp2.1\Contacts.AssemblyInfoInputs.cache
+C:\dev\Contacts\Contacts\obj\Debug\netcoreapp2.1\Contacts.AssemblyInfo.cs
+C:\dev\Contacts\Contacts\obj\Debug\netcoreapp2.1\Contacts.dll
+C:\dev\Contacts\Contacts\obj\Debug\netcoreapp2.1\Contacts.pdb
